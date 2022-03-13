@@ -16,7 +16,16 @@
       "admob_appopen": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.AppOpen1.1647191555",
       "admob_appopen_1":"",
       "base_key": "sav_firstvpn",
-      "base_url" :"https://d2isj403unfbyl.cloudfront.net/"
+      "base_url" :"https://d2isj403unfbyl.cloudfront.net/",
+      "fb_banneer":"",
+      "fb_banner1":"",
+      "fb_native_banner":"",
+      "fb_native_banner_1":"",
+      "fb_native":"",
+      "fb_native_1":"",
+      "fb_interstitial":"",
+      "fb_interstitial_1":""
+      
 
     }
   ]
