@@ -14,7 +14,9 @@
       "admob_rewarded": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.Rewarded0.1647191591",
       "admob_rewarded_1": "",
       "admob_appopen": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.AppOpen1.1647191555",
-      "admob_appopen_1":""
+      "admob_appopen_1":"",
+      "base_key": "sav_firstvpn",
+      "base_url" :"https://d2isj403unfbyl.cloudfront.net/"
 
     }
   ]
