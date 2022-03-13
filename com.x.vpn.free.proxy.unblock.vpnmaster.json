@@ -1,1 +1,21 @@
 
+{
+  "appsdata": [
+
+    {
+      "app_name": "VPN Master",
+      "package_name": "com.x.vpn.free.proxy.unblock.vpnmaster",
+      "admob_banner": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.Banner0.1630816309",
+      "admob_banner_1": "",
+      "admob_native": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.Native0.1630816332",
+      "admob_native_1": "50.90.199.209",
+      "admob_interstitial": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.Interstitial0.1630816362",
+      "admob_interstitial_1"; "",
+      "admob_rewarded": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.Rewarded0.1647191591",
+      "admob_rewarded_1": "",
+      "admob_appopen": "/22387492205,22569549818/com.x.vpn.free.proxy.unblock.vpnmaster.AppOpen1.1647191555",
+      "admob_appopen_1":""
+
+    }
+  ]
+}
