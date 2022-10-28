@@ -1,1 +1,15 @@
-{"isSuccess":true,"message":"Got data.","data":[{"id":111,"accountname":"Musically","appname":"Musically","package_name":"com.app.musically","status":"true","priority":"google_admob","adscount":1,"ggl_banner":"","ggl_banner_1":"","ggl_native":"\/21753324030,22778628808\/com.app.musically_Native","ggl_native_1":"\/21753324030,22778628808\/com.app.musically_Native","ggl_native_middle":"\/21753324030,22778628808\/com.app.musically_Native","ggl_interstitial":"","ggl_interstitial_1":"","ggl_splash_interstitial":"","ggl_appopen":"\/21753324030,22778628808\/com.app.musically_AppOpen","ggl_appopen_1":"","ggl_rewarded":"\/21753324030,22778628808\/com.app.musically_Rewarded","ggl_rewarded_1":"\/21753324030,22778628808\/com.app.musically_Rewarded","fb_banner":"1064899407535428_1064899727535396","fb_native_banner":"","fb_native":"1064899407535428_1064899974202038","fb_interstitial":"1064899407535428_1064899807535388","fb_rewarded":"1064899407535428_1064899904202045","applovin_interstitial":"","applovin_banner":"","applovin_mrec":"","applovin_native_med":"","applovin__native_small":"","applovin_interstitial_1":"","vkey":"","url":"","vlist":"","quereka":"","app_version":1,"new_app_link":"","force_update":"false"}]}
+{"data":[{"status":"true",
+"adscount":1,
+"google_banner":"/21753324030,22832956696/com.app.android.filemanager_Banner",
+"google_banner_":"/21753324030,22832956696/com.app.android.filemanager_Banner",
+"google_native":"\/21753324030,22778628808\/com.app.musically_Native",
+"google_native_1":"\/21753324030,22778628808\/com.app.musically_Native",
+"google_interstitial":"/21753324030,22832956696/com.app.android.filemanager_Interstitial",
+"google_interstitial_1":"/21753324030,22832956696/com.app.android.filemanager_Interstitial",
+"google_appopen":"/21753324030,22832956696/com.app.android.filemanager_AppOpen",
+"google_appopen_1":"/21753324030,22832956696/com.app.android.filemanager_AppOpen",
+"facebook_banner":"",
+"facebook_native_banner":"",
+"facebook_native":"",
+"facebook_interstitial":"",
+"extra":""}]}
